@@ -52,7 +52,7 @@ Now restart your system.
 •	Enable the storage of the VM by specifying disk size.
 •	Now the OS is ready to begin it’s installation process in your VM.
 7.	Now the VM is ready with the specified OS installed within it.
-
+ 
 
 
 
